@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "gdsc-demo"
+version = "0.1.0"
+description = ""
+authors = ["gokudaisensei <87324237+gokudaisensei@users.noreply.github.com>"]
+readme = "README.md"
+packages = [{include = "gdsc_demo"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
