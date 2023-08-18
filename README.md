@@ -18,10 +18,10 @@ The project employs the following technologies:
 
 ### 2. File structure
 gdsc-demo/
-|-- main.py - Main entry point for the API, contains endpoints.
-|-- models.py - Contains database models for creating database objects.
-|-- schemas.py - Contains JSON schema objects for data validation.
-|-- setup.db - SQLite database file.
+1. main.py - Main entry point for the API, contains endpoints.
+2. models.py - Contains database models for creating database objects.
+3. schemas.py - Contains JSON schema objects for data validation.
+4. setup.db - SQLite database file.
 
 
 ### 3. Data Modelling
